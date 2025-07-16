@@ -1,14 +1,19 @@
-## Otus training
+# OTUS QA-JS Project
 
-Its project for learn QA-Js
+A learning project for practicing QA (Quality Assurance) using JavaScript.
 
-### Getting Started
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+## 📋 Description
 
-Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
+This project is designed to help you learn and practice automated testing using JavaScript. It includes examples, test cases, and exercises focused on building skills as a QA engineer.
 
-```
-npm
-npm install
-```
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Zh4ng1r/qaCourse
+cd qa-js-project

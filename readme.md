@@ -17,3 +17,10 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/Zh4ng1r/otus-qa-js-2005-06-zhangir
 cd qa-js-project
+```
+
+### 2. 🧪 Technologies Used
+
+- JavaScript
+- [Playwright](https://playwright.dev/) – for end-to-end testing
+- (Optional) ESLint + Prettier – for code style and formatting
